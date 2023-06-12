@@ -1,2 +1,1 @@
-echo '0 string SCHOOL' | tee school.mgc
-file -m school.mgc -b *
+echo '0 string SCHOOL' > school.mgc
